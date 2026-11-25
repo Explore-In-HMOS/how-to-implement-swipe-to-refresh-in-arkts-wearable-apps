@@ -2,7 +2,7 @@
 
 # How To Implement Swipe To Refresh In Arkts Wearable Apps
 
-This is a pull-to-refresh message list for HarmonyOS Next wearable. It has a Refresh component wired to the list, a state-driven loading indicator, pull-up to load more, an unread dot on fresh rows, and mock data behind a repository seam, all in a light MVVM structure so the mock can be swapped for a real API without touching the UI.
+This is a pull-to-refresh message list for HarmonyOS wearable. It has a Refresh component wired to the list, a state-driven loading indicator, pull-up to load more, an unread dot on fresh rows, and mock data behind a repository seam, all in a light MVVM structure so the mock can be swapped for a real API without touching the UI.
 
 # Preview
 <div>
